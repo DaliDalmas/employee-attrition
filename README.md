@@ -1,4 +1,4 @@
-# employee-attrition-rate
+# employee-attrition
 ![](dashboard_image.png)
 
 code:https://github.com/DaliDalmas/employee-attrition-rate/blob/main/dashboard.ipynb
