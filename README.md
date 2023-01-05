@@ -1,8 +1,9 @@
 # employee-attrition-rate
+![](dashboard_image.png)
 
-code:
+code:https://github.com/DaliDalmas/employee-attrition-rate/blob/main/dashboard.ipynb
 
-vodeo explaining the code: https://github.com/DaliDalmas/employee-attrition-rate/blob/main/dashboard.ipynb
+vodeo explaining the code: 
 
 To run the dashboard:
 1. Clone the repo
